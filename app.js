@@ -18,7 +18,7 @@ if (random1 > random2) {
 } else if (random1 < random2) {
     h1.textContent = 'Player 2 win!'
 } else {
-    h1.textContent = 'Draw!'
+    h1.textContent = 'Draw!!!'
 }
 })
 
