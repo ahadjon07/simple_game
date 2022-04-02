@@ -55,3 +55,30 @@ button {
   border-radius: 1rem;
   background-color: rgb(59, 55, 55);
 }
+
+
+@media (max-width:1018px) {
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  p {
+    font-size: 1rem;
+  }
+  .container {
+    width: 40%;
+  }
+  img {
+    width: 40%;
+  }
+  
+  button {
+    font-size: 17px;
+    padding: 0.5rem 2rem;
+  }
+  footer {
+    font-size: 0.7rem;
+  }
+  
+}
